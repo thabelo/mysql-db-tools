@@ -1,5 +1,5 @@
 #mysql-db-tools
-I created this to quickly manipulate databases and other stuff.
+I created this so I can quickly manipulate databases and other db stuff.
 I will add more as time goes.
 
 ##ResetDB
